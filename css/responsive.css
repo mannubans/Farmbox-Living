@@ -1,0 +1,238 @@
+@media only screen and (max-width: 1500px){
+
+}
+
+@media only screen and (max-width: 1400px){
+
+}
+
+@media only screen and (max-width: 1250px){
+
+
+
+}
+@media only screen and (max-width: 1200px) {
+
+}
+@media only screen and (max-width: 1150px){
+	
+
+}
+@media only screen and (max-width: 1100px){
+	
+
+}
+
+@media only screen and (max-width: 1024px){
+
+}
+
+
+@media only screen and (max-width: 992px){
+	
+}
+@media only screen and (max-width: 991px){
+
+}
+
+@media only screen and (max-width: 850px){
+	
+}
+
+@media only screen and (max-width: 768px){
+
+}
+@media only screen and (max-width: 767px){
+
+.banner-sec {
+    padding: 40px 0 0 0;
+}
+.banner-sec .oppnity-text h1 {
+    font-size: 40px;
+    line-height: 45px;
+   
+}
+
+.heading h2 {
+    font-size: 30px;
+    line-height: 35px;
+    padding-bottom: 15px;
+    
+}
+.heading {
+    text-align: center;
+}
+.visible-xs {
+		position: relative;
+	}
+	.visible-xs:before {
+		position: absolute;
+        content: "\f0c9";
+		font-family: 'FontAwesome';
+		left: -35px;
+		right: 0px;
+		top: 19px;
+		background: #000;
+		text-align: center;
+		border-radius: 5px;
+	}
+	#configure {
+		color: #fff;
+		font-size: 25px;
+		right: 20px;
+		cursor: pointer;
+		position: absolute;
+		top: 86px;
+		z-index: 9;
+	}
+	#navbar-wrap {
+		background:#000;
+		padding: 0 0 0px 0;
+		position: absolute;
+		top: 30px;
+		right: 0;
+		width: 100%;
+		z-index: 999;
+		display:none;
+	}
+
+.navmenu li {
+    float: left;
+    width: 100%;
+    text-align: left;
+    padding: 10px 20px !important;
+    border-bottom: 1px solid #fff;
+}
+.navmenu li:nth-last-child(1){
+	border:0;
+}	
+.navmenu li a {
+    color: #fff !important;
+	display:block;
+	padding-left: 0!important;
+}
+.lower-header .navmenu li a:after {
+	content:none;
+}
+.header-sec .upper-header {
+    padding: 30px 0;
+    text-align: center;
+}
+.header-sec .lower-header {
+    padding: 0px 0;
+}
+.banner-sec .oppnity-text{
+	height:500px;
+}
+.banner-sec .oppnity-text h1{
+	font-size: 30px;
+    line-height: 40px;
+	padding:0 8px;
+}
+.banner-sec .oppnity-text h1 br{
+	display:none;
+}
+.about-us-sec {
+    padding: 50px 0;
+}
+.about-us-sec .img-about{
+	padding:40px 0 0 0;
+}
+.recent-sec .latest-post {
+    margin-top: 40px;
+}
+.recent-sec {
+    padding: 0 0 50px 0;
+}
+.about-us-sec .banana {
+    border-bottom: 0;
+}
+.blog-sec {
+    padding: 40px 0;
+}
+.blog-sec .almond h2 {
+    font-size: 30px;
+    line-height: 36px;
+}
+.lunch-sec {
+    padding: 30px 0 70px 0;
+}
+/* .dinner-sec .img-about.din-ner figure {
+    width: 90px;
+    height: 90px;
+    top: 27%;
+    left: -35px;
+} */
+.dinner-sec {
+    padding: 30px 0 70px 0;
+}
+.wellness-sec .recepie {
+    margin-bottom: 15px;
+}
+.wellness-sec .recepie h6 {
+    bottom: 25px;
+}
+}
+@media only screen and (max-width: 700px){
+
+}
+
+
+@media only screen and (max-width: 620px) {
+
+	
+}
+
+@media only screen and (max-width: 580px){
+
+}
+
+@media only screen and (max-width: 550px){
+	
+}
+
+@media only screen and (max-width: 480px){	
+
+}
+
+@media only screen and (max-width: 414px){
+
+
+}
+
+@media only screen and (max-width: 411px){
+	
+}
+
+@media only screen and (max-width: 395px){
+	
+}
+
+@media only screen and (max-width: 375px){
+
+}
+
+@media only screen and (max-width: 360px){
+	
+}
+
+@media only screen and (max-width: 320px) {
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
